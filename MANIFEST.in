@@ -1,0 +1,9 @@
+include README.md
+include CHANGELOG.md
+include *.yml
+include *.properties
+include requirements.txt
+include start.py
+include start.sh
+recursive-exclude tests *
+recursive-exclude pyreleaseplugin *

@@ -1,0 +1,12 @@
+application:
+  name: eyesmedia-data-governance-service
+
+profiles:
+#  active: local,dev,test,prod
+  active: local
+
+cloud:
+  config:
+    uri: http://proxy.eyesmedia.intra/repos
+    username: user
+    password: eyesmedia

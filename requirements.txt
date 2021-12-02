@@ -1,0 +1,7 @@
+Flask==2.0.2
+Flask-Cors
+Flask-Pydantic
+PyYAML
+elasticsearch==6.3.1
+eyesmediapydb==0.9.3
+eyesmediapyutils>=0.9.2
